@@ -1,0 +1,124 @@
+body{
+	background :#eef8ff;
+}
+footer
+{
+	width:100%;
+	position:absolute;
+	bottom:0;
+	background:black;
+	color:#fff;
+	padding :100px;
+	line-height:15px;
+}
+.row{
+	width:85%;
+	display:flex;
+	flex-wrap:wrap;
+	align-items:flex-start;
+	justify-content:space-between;
+}
+.col{
+	flex-basis:35%;
+		position:relative;
+	margin-left:-50px;
+	margin-top: 50px;
+
+}
+
+ .col h2{
+	margin-left:5px;
+	margin-bottom: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+		font-size: 20px;
+
+}
+.links{
+	margin-left:-100px;
+			position:relative;
+
+}
+.links h3
+{	margin-left:22px;
+
+	width:fit-content;
+	position: relative;
+			margin-bottom:40px;
+		font-size: 30px;
+
+}
+.links	ul li{
+		list-style:none;
+		margin-bottom:12px;
+	}
+
+.links	ul li a{
+		text-decoration: none;
+		font-size: 20px;
+		color:white;
+	}
+	.links{
+	margin-left:-100px;
+			position:relative;
+
+}
+
+.links ul li a:hover{
+	color:deepskyblue;
+}
+.SEC h3
+{	margin-left:42px;
+
+	width:fit-content;
+	position: relative;
+			margin-bottom:40px;
+		font-size: 30px;
+
+}
+.SEC	ul li{
+		list-style:none;
+		margin-bottom:12px;
+	}
+
+.SEC	ul li a{
+		text-decoration: none;
+		font-size: 20px;
+		color:white;
+	}
+	.SEC ul li a:hover{
+	color:deepskyblue;
+}
+
+	.THIR h3
+{	margin-left:62px;
+
+	width:fit-content;
+	position: relative;
+			margin-bottom:40px;
+		font-size: 30px;
+
+}
+.THIR	ul li{
+		list-style:none;
+		margin-bottom:12px;
+	}
+
+.THIR	ul li a{
+		text-decoration: none;
+		font-size: 20px;
+		color:white;
+	}
+	.DET 
+{	margin-left:52px;
+
+	width:fit-content;
+	position: relative;
+			margin-bottom:40px;
+		font-size: 30px;
+
+}
+.DET p{
+			text-decoration: none;
+		font-size: 20px;
+		color:white;
+}
